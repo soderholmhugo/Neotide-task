@@ -1,2 +1,2 @@
 # Personal
-Mina personliga projekt
+Personal small projects (latest update: February 2022)
